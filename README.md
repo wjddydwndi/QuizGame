@@ -50,7 +50,7 @@
 <img src="https://postfiles.pstatic.net/MjAxOTA1MThfMjAz/MDAxNTU4MTE0NjkwNzk1.ohQzZr7a3mwt1Vccp0ZFUcw73Ycn3ZCUj66HlUhuGzQg.xZur35Zn4A5dFzqE7t8UP3HbCsjC2Mnhq9lJvpGL4TYg.PNG.wjddydwndi/4-1.png?type=w773" width="100%">
 
 ① PASS를 클릭 시, RANDOM함수 정의.
-  - getRandom 함수
+  - getRandom 함수<br>
     자바스크립트의 매스 내장객체를 이용한 랜덤값을 별도의 함수로 만들어, 재사용성을 늘림.
 
 ② '제거' 버튼 클릭 시, 목록의 내용을 제거하는 함수 정의.
